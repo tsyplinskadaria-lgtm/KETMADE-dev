@@ -1,0 +1,6 @@
+{
+  "name": "KETMADE — Contemporary Ceramics Studio",
+  "description": "Portfolio, ceramic gallery, and clay workshops by artist Katrin at ketmade.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
